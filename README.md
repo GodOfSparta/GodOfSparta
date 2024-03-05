@@ -1,3 +1,9 @@
+<style>
+  h1, h2 {
+    margin-bottom: 0; /* Убираем нижний отступ у h1 */
+  }
+</style>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/GodOfSparta/GodOfSparta/main/RealFutureProjects_Banner_2.jpg">
 </h1>
@@ -7,3 +13,4 @@
     <a href="https://xcomer1989.itch.io/">ITCH</a>
   </div>
 </h2>
+
