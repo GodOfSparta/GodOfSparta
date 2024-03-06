@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #008080; font-family: 'Arial', sans-serif; font-weight: bold;">
-  Creating games using ChatGPT and other neural networks
+<h1 align="center" style="color: #DAA520; font-family: '#DAA520', sans-serif; font-weight: bold;">
+  <span style="font-family: 'Double Struck';">Creating games using ChatGPT and other neural networks</span>
 </h1>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/GodOfSparta/GodOfSparta/main/RealFutureProjects_Banner_2.jpg">
