@@ -1,3 +1,6 @@
+<h1 align="center" style="color: #008080; font-family: 'Arial', sans-serif; font-weight: bold;">
+  Creating games using ChatGPT and other neural networks
+</h1>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/GodOfSparta/GodOfSparta/main/RealFutureProjects_Banner_2.jpg">
 </h1>
@@ -7,4 +10,3 @@
     <a href="https://xcomer1989.itch.io/">ITCH</a>
   </div>
 </h2>
-# Creating Games with ChatGPT and Neural Networks
